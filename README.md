@@ -16,8 +16,9 @@
 5. MyBatis框架的使用。
 6. Dao和Service的Base类。
 7. 在SpringBoot项目中使用Filter。
-8. 在SpringBoot项目中使用Redis数据库。
+8. Redis数据库的使用。
 9. 实现登录逻辑。
+10，解决跨域问题。
 
 
 
